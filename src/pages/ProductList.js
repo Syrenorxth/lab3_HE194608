@@ -1,5 +1,5 @@
 import { useSearchParams } from "react-router-dom";
-import { products } from "../data.js";
+import { products } from "../data/products";
 import ProductItem from "../components/ProductItem";
 import SearchBar from "../components/SearchBar";
 import CategoryFilter from "../components/CategoryFilter";
